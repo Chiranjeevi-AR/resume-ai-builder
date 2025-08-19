@@ -34,3 +34,4 @@ async function generateResumePdf(resume) {
 
 module.exports = { generateResumePdf };
 
+

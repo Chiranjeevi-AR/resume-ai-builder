@@ -30,3 +30,4 @@ async function scrape(req, res) {
 
 module.exports = { listJobs, createJob, updateJob, deleteJob, scrape };
 
+
